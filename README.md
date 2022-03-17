@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronomes: ele/dele
 
 <div align="center">
-  <a href="https://github.com/MauricioOM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioOM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioOM&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/mauriciomonti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciomonti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomonti&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
   <div style="display: inline_block"><br>
@@ -36,5 +36,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/maur%C3%ADcio-oliveira-monti-394086205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/mauriciooliveiramonti" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/MauricioOM/MauricioOM/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mauriciomonti/mauriciomonti/blob/output/github-contribution-grid-snake.svg)
 </div>
