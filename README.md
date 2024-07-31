@@ -8,8 +8,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Estou Trabalhando com Front-End
-- 🌱 Estudando PHP, CSS, Jquery e Python
+- 🔭 Trabalho com PLSQL e Python
+- 🌱 Estudando PHP, CSS, Jquery
 - 📫 Contate-me no email: mauricioomonti@gmail.com
 
 <div align="center">
