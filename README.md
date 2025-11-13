@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 🌱 Estudando PHP, CSS, Jquery
 - 📫 Contate-me no email: mauricioomonti@gmail.com
 
+<div align="center">
+  <a href="https://github.com/mauriciomonti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciomonti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomonti&layout=compact&langs_count=7&theme=dark"/>
+
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Mauricio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
